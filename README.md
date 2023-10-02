@@ -22,7 +22,7 @@
 
 </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=vdouglas98&repo=artur-debv&theme=react)](https://github.com/vdouglas98/vdouglas98)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=vdouglas98&repo=Victor-Douglas&theme=react)](https://github.com/vdouglas98/vdouglas98)
 
 
 
